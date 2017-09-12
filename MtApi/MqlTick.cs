@@ -4,6 +4,7 @@ namespace MtApi
 {
     public class MqlTick
     {
+        public string Symbol { get; set; }
         public int MtTime { get; set; }
         public DateTime Time => MtApiTimeConverter.ConvertFromMtTime(MtTime);
         public double Bid { get; set; }

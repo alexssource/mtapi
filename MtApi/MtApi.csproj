@@ -125,6 +125,7 @@
     <Compile Include="Responses\SymbolInfoDoubleResponse.cs" />
     <Compile Include="Responses\SymbolInfoTickResponse.cs" />
     <Compile Include="SeriesIdentifier.cs" />
+    <Compile Include="TickEventArgs.cs" />
     <Compile Include="TimeBarArgs.cs" />
     <Compile Include="Monitors\TimeframeTradeMonitor.cs" />
     <Compile Include="Monitors\TimerTradeMonitor.cs" />

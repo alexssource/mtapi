@@ -2,7 +2,7 @@
 #ifndef YDROL_JSON_MQH
 #define YDROL_JSON_MQH
 
-#include <hash.mqh>
+#include "hash.mqh"
 
 // (C)2014 Andrew Lord forex@NICKNAME@lordy.org.uk
 // Parse a JSON String - Adapted for mql4++ from my gawk implementation

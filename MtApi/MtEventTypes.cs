@@ -3,6 +3,7 @@
     public enum MtEventTypes
     {
         LastTimeBar = 1,
-        ChartEvent  = 2
+        ChartEvent  = 2,
+        TickEvent = 3
     }
 }
